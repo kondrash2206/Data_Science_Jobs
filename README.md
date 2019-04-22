@@ -11,6 +11,9 @@ Since I am very interested in Data Science and currently learning it I am curiou
 * Which technical skills (Programming Languages / Tools) are required and how they are ranked? 
 * Are there are any interesting wording differences between companies which might give some additional information about a company? 
 
+I also wrote a Medium Blog Post on this topic:
+["What did I learn from 7000 Data Scientists Job Posts?"](https://medium.com/@vitaliykondrashov/what-did-i-learn-from-7000-data-scientists-job-posts-d367b6c67c75)
+
 ### Summary
 **Demand:** Amazon searches the most data experts. Ball Aerospace, Microsoft and Google are on places 2-4 with approx. 2 times fewer job posts in comparison to Amazon. NYC, Seatle, and Cambridge provide good chances to find a job. If U.S states are investigated, California is a clear leader with approx. 60% more jobs in comparison to 2nd Massachusets.  
 **Requirements:** generally companies expect at least 4 years of work experience, however, the companies from pharmaceutic industry expect around 6-7 years of work experience. When technical requirements are investigated, approx. 50% of all ads require Python proficiency. Java is mentioned in 27% of job postings. AWS, SQL, and R with approx. 25%  are on places 3-5.  
